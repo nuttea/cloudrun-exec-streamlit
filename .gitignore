@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# C extensions
+*.cpp
+*.c
+*.h
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django stuff
+*.sqlite3
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Sphinx documentation
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Poetry
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# Local configuration
+local_settings.py
+*.env
+
+# IDE files
+*.idea/
+.vscode/
+
+# Miscellaneous
+*.out
+*.log
+*.py[cod]
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.git/
