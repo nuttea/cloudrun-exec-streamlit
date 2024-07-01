@@ -2,7 +2,7 @@ import streamlit as st
 import subprocess
 
 with st.sidebar:
-    "[View the source code](https://gitlab.com/google-cloud-ce/googlers/nuttee/llm-streamlit)"
+    "[View the source code](https://github.com/nuttea/cloudrun-exec-streamlit)"
 
 st.title("Cloud Run Shell Exec")
 
